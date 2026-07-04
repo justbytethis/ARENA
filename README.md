@@ -1,3 +1,65 @@
+## ARENA 3.0 Progress Tracker
+
+### Overall Progress
+
+- [ ] Chapter 0: Fundamentals
+- [ ] Chapter 1: Transformer Interpretability
+- [ ] Chapter 2: Reinforcement Learning
+- [ ] Chapter 3: LLM Evaluations
+- [ ] Chapter 4: Alignment Science
+
+### Chapter 0: Fundamentals
+
+- [x] 0.0 Prerequisites (Jul 4 2026)
+- [ ] 0.1 Ray Tracing
+- [ ] 0.2 CNNs & ResNets
+- [ ] 0.3 Optimization
+- [ ] 0.4 Backprop
+- [ ] 0.5 VAEs & GANs
+
+### Chapter 1: Transformer Interpretability
+
+- [ ] 1.1 Transformers from Scratch
+- [ ] 1.2 Intro to Mech Interp
+- [ ] 1.3 Probing and Representations
+  - [ ] 1.3.1 Linear Probes
+  - [ ] 1.3.2 Function Vectors & Model Steering
+  - [ ] 1.3.3 Interpretability with SAEs
+  - [ ] 1.3.4 Activation Oracles
+- [ ] 1.4 Circuits in LLMs
+  - [ ] 1.4.1 Indirect Object Identification
+  - [ ] 1.4.2 SAE Circuits
+- [ ] 1.5 Toy Models
+  - [ ] 1.5.1 Balanced Bracket Classifier
+  - [ ] 1.5.2 Grokking & Modular Arithmetic
+  - [ ] 1.5.3 OthelloGPT
+  - [ ] 1.5.4 Superposition & SAEs
+- [ ] Monthly Algorithmic Problems
+
+### Chapter 2: Reinforcement Learning
+
+- [ ] 2.1 Intro to RL
+- [ ] 2.2 DQN & VPG
+  - [ ] 2.2.2 Policy Gradient
+  - [ ] 2.2.2 VPG
+- [ ] 2.3 PPO
+- [ ] 2.4 RLHF
+- [ ] 2.5 MCTS & AlphaZero
+
+### Chapter 3: LLM Evaluations
+
+- [ ] 3.1 Intro to Evals
+- [ ] 3.2 Dataset Generation
+- [ ] 3.3 Running Evals with Inspect
+- [ ] 3.4 LLM Agents
+- [ ] 3.5 AI Control
+
+### Chapter 4: Alignment Science
+
+- [ ] Coming soon
+
+---
+
 ### ARENA [slack channel](https://join.slack.com/t/arena-uk/shared_invite/zt-3d3sro2sn-lACCkkoA3Sjm8J0pvWSaGQ)
 
 * Please report any errors/concerns with the material in #errata.
