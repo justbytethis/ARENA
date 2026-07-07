@@ -1,3 +1,9 @@
+# ARENA Course Self-study
+
+This repository contains my self-study notes and exercises (`exercise.py` and `notes.md` in each subfolder) based on the ARENA course materials.
+
+> Original course materials: https://github.com/callummcdougall/ARENA_3.0
+
 ## ARENA 3.0 Progress Tracker
 
 ### Overall Progress
@@ -11,7 +17,7 @@
 ### Chapter 0: Fundamentals
 
 - [x] 0.0 Prerequisites (Jul 4 2026)
-- [ ] 0.1 Ray Tracing
+- [x] 0.1 Ray Tracing (Jul 7 2026)
 - [ ] 0.2 CNNs & ResNets
 - [ ] 0.3 Optimization
 - [ ] 0.4 Backprop
