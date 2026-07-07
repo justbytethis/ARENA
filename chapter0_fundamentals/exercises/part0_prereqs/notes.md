@@ -1,7 +1,5 @@
 # 0.0 Prerequisites Study Note
 
-- Date: Jun 27 2026
-
 ## Core Concepts / Knowledge
 
 > Q. What makes neural networks more powerful than basic statistical methods like linear regression?
