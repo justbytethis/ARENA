@@ -11,6 +11,7 @@ O = (0,0), D = (3,3), L_1 = (2,1), L_2 = (1,0).
 $$
 
 Then given equation is formed as:
+
 $$
 \begin{pmatrix}
     3 & 1 \\
