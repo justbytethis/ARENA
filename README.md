@@ -19,7 +19,8 @@ This repository contains my self-study notes and exercises (`exercise.py` and `n
 - [x] 0.0 Prerequisites (Jul 4 2026)
 - [x] 0.1 Ray Tracing (Jul 7 2026)
 - [x] 0.2 CNNs & ResNets (Jul 14 2026)
-- [ ] 0.3 Optimization
+- [x] 0.3 Optimization (Jul 18 2026)
+  - [ ] *Skipped Distributed Learning⎯going to revisit later*
 - [ ] 0.4 Backprop
 - [ ] 0.5 VAEs & GANs
 
