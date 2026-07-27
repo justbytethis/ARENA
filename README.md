@@ -21,7 +21,7 @@ This repository contains my self-study notes and exercises (`exercise.py` and `n
 - [x] 0.2 CNNs & ResNets (Jul 14 2026)
 - [x] 0.3 Optimization (Jul 18 2026)
   - [ ] *Skipped Distributed Learning⎯going to revisit later*
-- [ ] 0.4 Backprop
+- [x] 0.4 Backprop (Jul 27 2026)
 - [ ] 0.5 VAEs & GANs
 
 ### Chapter 1: Transformer Interpretability
